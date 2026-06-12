@@ -90,4 +90,4 @@ Generate optimized copy for:
 
 ## Project Structure
 
-https://chatbot.getmindpal.com/ad-copywriter-mdl?ccid=6a2a5670ff35a507a21d2052
+https://chatbot.getmindpal.com/ad-copywriter-ix2
